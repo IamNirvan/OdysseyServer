@@ -11,7 +11,7 @@ This program enables the host machine to act as a server by listening for incomi
 
 ## Features
 The standard features include:
-1. Multi-threading.
+1. Multithreading.
 1. Listening for connections.
 1. Supporting multiple clients.
 1. Tracking clients that are engaged in the communication.
